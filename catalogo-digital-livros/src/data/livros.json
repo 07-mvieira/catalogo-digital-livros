@@ -1,0 +1,46 @@
+[ 
+    {
+        "id": 1,
+        "isbn-13": "9798335052542",
+        "titulo": "Jornada ao Oeste",
+        "subtitulo": "Xi You Ji, Vol.1: Busca pela Iluminação",
+        "autor": ["Wu Cheng'en"],
+        "tradutor": [],
+        "paginas": 294,
+        "tags": ["fantasia", "aventura", "China"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/51i8Ck6hV1L.jpg",
+        "status": "",
+        "nota": 4.2
+    },
+
+    {
+        "id": 2,
+        "isbn-13": "9786586015416",
+        "titulo": "O Feiticeiro de Terramar",
+        "subtitulo": "Ciclo Terramar, Vol. 1",
+        "autor": ["Ursula K. Le Guin"],
+        "tradutor": ["Heci Regina Candiani"],
+        "paginas": 235,
+        "tags": ["fantasia", "bildungsroman"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/71-BMB+blgL._SL1500_.jpg",
+        "status": "lendo",
+        "nota": 4.7
+    },
+
+    {
+        "id": 3,
+        "isbn-13": "9786555605310",
+        "titulo": "Viúva de Ferro",
+        "subtitulo": "",
+        "autor": ["Xiran Jay Zhao"],
+        "tradutor": ["Caroline Chang"],
+        "paginas": 480,
+        "tags": ["ficção científica"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/71nmEXuiNnL._SL1500_.jpg",
+        "status": "lendo",
+        "nota": 4.6
+    }
+]
