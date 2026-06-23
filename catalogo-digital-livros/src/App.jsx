@@ -1,6 +1,8 @@
+import CampoBusca from "./components/CampoBusca"
+
 function App() {
   return (
-    <></>
+    <CampoBusca></CampoBusca>
   )
 }
 

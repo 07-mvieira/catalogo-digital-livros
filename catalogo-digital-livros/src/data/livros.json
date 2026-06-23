@@ -11,6 +11,7 @@
         "descricao": "",
         "imagem": "https://m.media-amazon.com/images/I/51i8Ck6hV1L.jpg",
         "status": "",
+        "favorito": false,
         "nota": 4.2
     },
 
@@ -26,6 +27,7 @@
         "descricao": "",
         "imagem": "https://m.media-amazon.com/images/I/71-BMB+blgL._SL1500_.jpg",
         "status": "lendo",
+        "favorito": true,
         "nota": 4.7
     },
 
@@ -41,6 +43,7 @@
         "descricao": "",
         "imagem": "https://m.media-amazon.com/images/I/71nmEXuiNnL._SL1500_.jpg",
         "status": "lendo",
+        "favorito": false,
         "nota": 4.6
     }
 ]
