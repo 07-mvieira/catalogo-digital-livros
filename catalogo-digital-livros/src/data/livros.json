@@ -14,7 +14,6 @@
         "favorito": false,
         "nota": 4.2
     },
-
     {
         "id": 2,
         "isbn-13": "9786586015416",
@@ -30,7 +29,6 @@
         "favorito": true,
         "nota": 4.7
     },
-
     {
         "id": 3,
         "isbn-13": "9786555605310",
@@ -45,5 +43,80 @@
         "status": "lendo",
         "favorito": false,
         "nota": 4.6
+    },
+    {
+        "id": 4,
+        "isbn-13": "9788598078175",
+        "titulo": "A menina que roubava livros",
+        "subtitulo": "",
+        "autor": ["Markus Zusak"],
+        "tradutor": ["Vera Ribeiro"],
+        "paginas": 480,
+        "tags": ["ficção histórica", "bildungsroman"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/61L+4OBhm-L._SL1000_.jpg",
+        "status": "lendo",
+        "favorito": false,
+        "nota": 4.8
+    },
+    {
+        "id": 5,
+        "isbn-13": "9786580309320",
+        "titulo": "Torto arado",
+        "subtitulo": "",
+        "autor": ["Itamar Vieira Júnior"],
+        "tradutor": [""],
+        "paginas": 246,
+        "tags": ["romance", "Brasil"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/71gXpS2PAgL._SL1500_.jpg",
+        "status": "lido",
+        "favorito": true,
+        "nota": 4.8
+    },
+    {
+        "id": 6,
+        "isbn-13": "9788525421708",
+        "titulo": "Drácula",
+        "subtitulo": "",
+        "autor": ["Bram Stoker"],
+        "tradutor": ["Theobaldo de Souza"],
+        "paginas": 692,
+        "tags": ["romance", "horror", "mistério"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/71MwZx0zkoL._SL1500_.jpg",
+        "status": "lido",
+        "favorito": true,
+        "nota": 4.5
+    },
+    {
+        "id": 7,
+        "isbn-13": "9788508147311",
+        "titulo": "O chamado do monstro",
+        "subtitulo": "",
+        "autor": ["Patrick Ness"],
+        "tradutor": [""],
+        "paginas": 216,
+        "tags": ["fantasia"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/910+S+7TKKL._SL1500_.jpg",
+        "status": "lido",
+        "favorito": true,
+        "nota": 4.8
+    },
+    {
+        "id": 8,
+        "isbn-13": "9788508147311",
+        "titulo": "Frankenstein",
+        "subtitulo": "",
+        "autor": ["Mary Shelley"],
+        "tradutor": [""],
+        "paginas": 240,
+        "tags": ["ficção científica", "horror"],
+        "descricao": "",
+        "imagem": "https://m.media-amazon.com/images/I/61ymACgjZWL._SL1000_.jpg",
+        "status": "lendo",
+        "favorito": false,
+        "nota": 4.7
     }
 ]
