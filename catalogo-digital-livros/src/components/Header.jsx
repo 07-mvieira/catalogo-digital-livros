@@ -2,7 +2,10 @@ import Menu from "./Menu"
 
 function Header ({paginaAtiva, aoMudarPagina}) {
     return (
-        <Menu paginaAtiva={paginaAtiva} aoMudarPagina={aoMudarPagina} />
+        <Menu class="header" 
+        paginaAtiva={paginaAtiva}
+        aoMudarPagina={aoMudarPagina} 
+        />
     )
 }
 
